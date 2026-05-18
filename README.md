@@ -1,66 +1,53 @@
-# Nexum Labs
 
-> Where the builders of tomorrow learn today.
+```
+███╗   ██╗███████╗██╗  ██╗██╗   ██╗███╗   ███╗    ██╗      █████╗ ██████╗ ███████╗
+████╗  ██║██╔════╝╚██╗██╔╝██║   ██║████╗ ████║    ██║     ██╔══██╗██╔══██╗██╔════╝
+██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║██╔████╔██║    ██║     ███████║██████╔╝███████╗
+██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║██║╚██╔╝██║    ██║     ██╔══██║██╔══██╗╚════██║
+██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝██║ ╚═╝ ██║    ███████╗██║  ██║██████╔╝███████║
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org)
-[![Part of](https://img.shields.io/badge/FCRI-Education-gold)](https://fcri.science)
+        ┌─────────────────────────────────────────────────────┐
+        │  🎮  GAMIFIED  ·  AI-POWERED  ·  MISSION-DRIVEN    │
+        └─────────────────────────────────────────────────────┘
 
-**Nexum Labs** is an AI-powered gamified learning studio — where young creators master the technologies of tomorrow through project-based missions, bypassing traditional curricula for real-world agency.
+          ╔═════════════════════════════════════════════════╗
+          ║                                                 ║
+          ║   MISSION 001  ▶  BUILD YOUR FIRST AI AGENT   ║
+          ║   XP: +250     ████████████░░░░  [75%]        ║
+          ║                                                 ║
+          ║   YOUNG CREATORS  →  TOMORROW'S BUILDERS       ║
+          ║   LEARN · BUILD · DEPLOY · REPEAT              ║
+          ║                                                 ║
+          ╚═════════════════════════════════════════════════╝
 
-Learn by building. Level up by shipping.
+              ★ MASTER TOMORROW'S TECH. START TODAY. ★
+              github.com/Davidcarmelalex/nexum-labs
+                      part of the FCRI network
+```
+
+
+# Nexum Labs — The Builders of Tomorrow
+
+> Learn by building. Level up by shipping.
+
+Nexum Labs — AI-powered gamified learning. Part of M&R&Nothing.
 
 ---
 
-## Learning Model
+## Part of the M&R&Nothing Ecosystem
 
 ```
-Mission → Build → Test → Deploy → Level Up
-   │          │        │        │         │
-Topic    Hands-on   AI review  Real      XP +
-brief    project   & feedback  output    Badges
+◈  MRN°  ·  M&R&Nothing  ·  2026  ◈
+A tribute. By David Carmel Alex.
+
+[ MR//NOTHING ]  [ mSEAL ]  [ VOID//SIGNAL ]  [ FACTLOGIC ]
+[ NEXUM LABS ]  [ JAN NITI ]  [ NOTHINGBUILT ]  [ NOTHINGOS ]
+[ NOTHING HUSTLE ]  [ VOID.BOUNTY ]  [ PARTHIVE ]  [ MrNothing OS ]
 ```
+
+→ [github.com/Davidcarmelalex/nexum-labs](https://github.com/Davidcarmelalex/nexum-labs)
 
 ---
 
-## Subject Tracks
-
-| Track | Description |
-|-------|-------------|
-| 🤖 AI & Agents | Build your first AI agent, train models, deploy APIs |
-| 🌐 Web Development | HTML to full-stack, React, Next.js, databases |
-| ⛓️ Blockchain | Smart contracts, DeFi, Web3 basics |
-| 🔐 Cybersecurity | Ethical hacking, CTFs, OWASP Top 10 |
-| 📊 Data Science | Python, ML, visualization, real datasets |
-
----
-
-## Architecture
-
-```
-nexum-labs/
-├── src/app/
-│   ├── page.tsx           Mission hub (personalized feed)
-│   ├── mission/[id]/      Mission workspace + AI tutor
-│   ├── profile/           Learner profile, XP, badges
-│   └── leaderboard/       Global and cohort rankings
-├── lib/
-│   ├── xp.ts              XP calculation engine
-│   └── ai-tutor.ts        AI feedback and hint system
-└── tests/
-```
-
----
-
-## Stack
-
-Next.js 16 · TypeScript · Tailwind CSS 4 · OpenAI (AI tutor) · PostgreSQL
-
----
-
-## Quick Start
-
-```bash
-git clone https://github.com/Davidcarmelalex/nexum-labs
-cd nexum-labs && npm install && cp .env.example .env.local && npm run dev
-```
+*Built from nothing. For someone. Forever.*
